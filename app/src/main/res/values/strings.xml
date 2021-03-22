@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Food Moves</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>Mathara</item>
+        <item>Marawila</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Thepla</item>
+        <item>Dal Rice</item>
+        <item>Dhokla</item>
+        <item>Sabaji RotiKadhi Khichdi</item>
+        <item>Puri</item>
+        <item>Dal</item>
+        <item>Undhaiyu</item>
+        <item>Alooo</item>
+        <item>Patra</item>
+        <item>Khandavi</item>
+
+    </string-array>
+
+</resources>

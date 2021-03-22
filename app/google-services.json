@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537032909832",
+    "project_id": "food-moves-26196",
+    "storage_bucket": "food-moves-26196.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537032909832:android:2344353f1b0a76bd799dbd",
+        "android_client_info": {
+          "package_name": "com.example.foodmoves"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537032909832-kssuhc4hook2ckrfsehj0l2vgp92fin0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2QGPwfuHIIqyRUDiuVp6ZnCKICmcIWrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537032909832-kssuhc4hook2ckrfsehj0l2vgp92fin0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
